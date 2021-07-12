@@ -1,6 +1,8 @@
 # Python-Dash-Example
-
+<p>
 Whether for business, research, or personal aims, dashboarding is an in demand feature in today's business and tech worlds. With companies like Salesforce, Power BI, and Domo gaining popularity, learning how to create and maintain dashboards has become an in-demand workforce skill. Although these services offer easy hands-on dashboarding frameworks and other amenities such as training and tech support, none are cheap, and companies may be turned away from purchasing a license unless they can justify the cost.
+</p>
+<p>
 For this reason, Python presents a 
 
 
