@@ -11,6 +11,12 @@ For this reason, Python presents a simple viable alternative to it's pricey coun
 The current project uses the Bokeh package to create an interactive dashboard to view and compare user selections across datasets, and allows users to dynamically explore their own data, as well as download it for later reference. 
 </p>
 
+<p>
+
+https://github.com/mattgr0619/Python-Dash-Example/blob/main/canna_dash.html
+  
+</p>
+
 
 
 ## References
