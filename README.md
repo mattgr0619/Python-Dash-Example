@@ -13,7 +13,7 @@ The current project uses the Bokeh package to create an interactive dashboard to
 
 <p>
 
-[https://github.com/mattgr0619/Python-Dash-Example/blob/main/canna_dash.html](https://raw.githack.com/mattgr0619/Python-Dash-Example/ac589e7a6830b10690c98f25a72b57fa19e4dd08/desktop_app_6.30.html)
+[https://github.com/mattgr0619/Python-Dash-Example/blob/desktop_app_6.30.html)
   
 </p>
 
