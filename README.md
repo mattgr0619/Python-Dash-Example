@@ -23,5 +23,5 @@ The current project uses the Bokeh package to create an interactive dashboard to
 
 
 ## References
-<li><a href="https://raw.githack.com/mattgr0619/Python-Dash-Example/main/desktop_app_6.30.html" title="Sample">Dataset</a></li>
+<li><a href="https://www.kaggle.com/datasets/kingburrito666/cannabis-strains)https://www.kaggle.com/datasets/kingburrito666/cannabis-strains" title="Sample">Dataset</a></li>
 
