@@ -18,7 +18,14 @@ The current project uses the Bokeh package to create an interactive dashboard to
 <li><a href="https://raw.githack.com/mattgr0619/Python-Dash-Example/main/mobile_%20black_9.10.html">Mobile!</a></li>
 </p>
 
+## About the App
 
+<ul>
+    <li>Tyoe your favorite strains in the text box, and they will appear as dots on the graph:/li>
+    <li>Each point is a strain, BLUER strains are more Indica dominant, while REDDER strains are more Sativa</li>
+    <li>Strains further UP on the graph are more highly rated, and strains further RIGHT on the graph have higher THC content</li>
+    <li>Each strain's flavor profiles are highlighted in the table below the graph. Terpine info to follow! </li>
+</ul>
 
 
 
