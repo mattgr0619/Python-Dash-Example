@@ -13,9 +13,8 @@ The current project uses the Bokeh package to create an interactive dashboard to
 
 <p>
 
-<li><a href="https://rawcdn.githack.com/mattgr0619/Python-Dash-Example/492a50b9e395d3a1383a29359f7a957d6e3af350/desktop_app_3.19.24.html" title="Try out the dashboard!">Try it Out!</a></li>
+<li><a href="https://raw.githack.com/mattgr0619/Python-Dash-Example/main/desktop_app_3.27.24.html" title="Try out the dashboard!">Try it Out!</a></li>
 
-<li><a href="https://raw.githack.com/mattgr0619/Python-Dash-Example/main/mobile_%20black_9.10.html">Mobile!</a></li>
 </p>
 
 ## About the App
