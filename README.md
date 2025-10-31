@@ -32,5 +32,5 @@ The current project uses the Bokeh package to create an interactive dashboard to
 <li><a href="https://venmo.com/?txn=pay&audience=public&recipients=2404788703&amount=7.00&note=your%20work%20is%20worth%20a%20burrito%20on%20me!" title="Kindly the creator a burrito">Feed Me! 🍗 🍕 🍔 🍣 </a></li>
 
 
-## References
-<li><a href="https://www.kaggle.com/datasets/kingburrito666/cannabis-strains" title="Sample Dataset"</a> Source Data</li>
+// ## References
+// <li><a href="https://www.kaggle.com/datasets/kingburrito666/cannabis-strains" title="Sample Dataset"</a> Source Data</li>
