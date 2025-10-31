@@ -20,10 +20,10 @@ The current project uses the Bokeh package to create an interactive dashboard to
 ## About the App
 
 <ul>
-    <li>Tyoe your favorite strains in the text box, and they will appear as dots on the graph:/li>
-    <li>Each point is a strain, BLUER strains are more Indica dominant, while REDDER strains are more Sativa</li>
-    <li>Strains further UP on the graph are more highly rated, and strains further RIGHT on the graph have higher THC content</li>
-    <li>Each strain's flavor profiles are highlighted in the table below the graph. Terpine info to follow! </li>
+    <li>Tyoe your favorite terpenes in the text box, and they will appear as dots on the graph:/li>
+    <li>Each point is a terpene, BLUER terpenes are more night-assoiative, while REDDER terpenes are more day-associative</li>
+    <li>terpenes further UP on the graph are more highly rated, and terpenes further RIGHT on the graph have higher THC content</li>
+    <li>Each terpene's flavor profiles are highlighted in the table below the graph. Terpine info to follow! </li>
 </ul>
 
 
