@@ -20,13 +20,8 @@ The current project uses the Bokeh package to create an interactive dashboard to
 ## About the App
 
 <ul>
-    <li>Tyoe your favorite terpenes in the text box, and they will appear as dots on the graph:/li>
+    <li>Type your favorite terpenes in the text box, and they will appear as dots on the graph:/li>
     <li>Each point is a terpene, BLUER terpenes are more night-assoiative, while REDDER terpenes are more day-associative</li>
-    <li>terpenes further UP on the graph are more highly rated, and terpenes further RIGHT on the graph have higher THC content</li>
+    <li>Terpenes further UP on the graph are more highly rated, and terpenes further RIGHT on the graph have higher THC content</li>
     <li>Each terpene's flavor profiles are highlighted in the table below the graph. Terpine info to follow! </li>
 </ul>
-
-
-
-## Feed Me!
-<li><a href="https://venmo.com/?txn=pay&audience=public&recipients=2404788703&amount=7.00&note=your%20work%20is%20worth%20a%20burrito%20on%20me!" title="Kindly the creator a burrito">Feed Me! 🍗 🍕 🍔 🍣 </a></li>
